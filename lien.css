@@ -31,7 +31,7 @@ div {
 .container{
     position: absolute;
     transform: translate(-50%,-50%);
-    width: 750px;
+    width: 40%;
     padding: 30px;
     background: #fff;
     box-sizing: border-box;
